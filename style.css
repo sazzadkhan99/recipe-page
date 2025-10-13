@@ -44,7 +44,7 @@ img{
   height:auto;
 }
 .container{
-  width:800px;
+  width:50rem;
   height:auto; 
   background-color: var(--whiteColor);
   border-radius: 1.25rem;
@@ -148,7 +148,7 @@ td:last-child{
   font-weight: bold;
 }
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:37.5rem){
   body{
   font-size: 1rem;
   padding:0;
@@ -165,5 +165,13 @@ td:last-child{
   border-radius: 0;
   margin-bottom: 0;
 }
+}
 
+@media (prefers-reduced-motion: reduce) {
+  /* Close animation or transition reduce */
+  * {
+    animation-duration: 0.001s !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001s !important;
+  }
 }
