@@ -25,8 +25,8 @@ Build a responsive recipe page using semantic HTML and clean CSS that matches a 
 
 ### Screenshot
 
-![](screenshots/desktop-view.jpg)
-![](screenshots/mobile-view.jpg)
+![](screenshots/desktop-design.jpg)
+![](screenshots/mobile-design.jpg)
 
 
 ### Links
