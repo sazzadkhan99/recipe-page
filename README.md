@@ -31,8 +31,8 @@ Build a responsive recipe page using semantic HTML and clean CSS that matches a 
 
 ### Links
 
-- Solution URL: https://github.com/sazzadkhan99/social-links-profile
-- Live Site URL: https://sazzadkhan99.github.io/social-links-profile
+- Solution URL: https://github.com/sazzadkhan99/recipe-page
+- Live Site URL: https://sazzadkhan99.github.io/recipe-page
 
 ## My process
 
