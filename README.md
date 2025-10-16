@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the [Recipe page solution](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
 
 ## Table of contents
 
